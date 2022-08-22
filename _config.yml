@@ -83,10 +83,10 @@ author:
   name             : "Aidan Harrington"
   avatar           : "profile.png"
   bio              : "PhD Student in Plant Biology, Moeller Lab"
-  location         : "University of Minnesota Twin Cities"
-  employer         :
+  location         : "Moeller Lab"
+  employer         : "University of Minnesota Twin Cities"
   googlescholar    : "https://scholar.google.com/citations?user=N6edAgIAAAAJ&hl=en"
-  email            :
+  email            : "harr3281@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
