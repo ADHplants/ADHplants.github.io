@@ -12,11 +12,11 @@ Hi! I'm Aidan, a PhD Student at the University of Minnesota, Twin Cities. I am a
 
 My work and research
 ======
-I study ecological genomics, mating systems, and trait evolution, typically in the contexts of incipient speciation, sympatry, and polyploidy.  
+My academic interests in plant biology are ecological genomics, mating systems, and trait evolution, typically in the contexts of incipient speciation, sympatry, and polyploidy. My current work is in the flowering plant genus _Clarkia_ but I also have an enduring passion for seed-free plants. I am also interested in science communication and writing popular science. Check out my research page to see what I am working on these days. Click the publication link or my google scholar profile to find my published works. 
 
 Background
 ======
-I recieved my B.A. in Biology with High Honors from Colgate University in 2021. At Colgate, I worked in the plant physiological ecology lab of Dr. James Watkins, focusing in particular on fern gametophyte ecophysiology and reproductive biology. 
+I recieved my B.A. in Biology with High Honors from Colgate University in 2021. At Colgate, I worked in the plant physiological ecology lab of Dr. James Watkins, focusing in particular on fern gametophyte ecophysiology and reproductive biology.
 
 For more info
 ------
