@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About
 ======
-Hi! I'm Aidan, a PhD Student at the University of Minnesota, Twin Cities. I am advised by Dr. David Moeller and broadly interested in the evolutionary ecology of plants, especially _Clarkia_ and ferns. You can find our lab website [here] (https://moellerlab.wordpress.com/) 
+Hi! I'm Aidan, a PhD Student at the University of Minnesota, Twin Cities. I am advised by Dr. David Moeller and broadly interested in the evolutionary ecology of plants, especially _Clarkia_ and ferns. You can find our lab website [here](https://moellerlab.wordpress.com/). 
 
 My work and research
 ======
