@@ -4,7 +4,7 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  image:/assets/images/pfp.jpeg
+  image: assets/images/pfp.jpeg
 redirect_from: 
   - /about/
   - /about.html
@@ -16,12 +16,12 @@ My work and research
 ======
 My academic interests in plants are ecological genomics, mating systems, and trait evolution, typically in the contexts of incipient speciation, sympatry, and polyploidy. My current work is in the flowering plant genus _Clarkia_ but I also have an enduring passion for seed-free plants. Check out my research page to see my latest projects. Click the publication link or my google scholar profile to find my published works. 
 
-Outside of my research, I am interested in science communication and popular science writing. Check out my portfolio if you would like to know more about my non-academic work.
+Outside of my research, I am interested in science communication and popular science writing. Check out my portfolio if you would like to know more about my non-academic works.
 
 Background
 ======
-I recieved my B.A. in Biology with High Honors from Colgate University in 2021. At Colgate, I worked in the plant physiological ecology lab of Dr. James Watkins, focusing in particular on fern gametophyte ecophysiology and reproductive biology. Presently, I am a 2nd year PhD student in the Plant and Microbial Biolgoy Program at the University of Minnesota, Twin Cities. 
+I recieved my B.A. in Biology with High Honors from Colgate University in 2021. At Colgate, I worked in the plant physiological ecology lab of Dr. James Watkins, focusing on fern gametophyte ecophysiology and reproductive biology. Presently, I am a 2nd year PhD student in the Plant and Microbial Biolgoy Program at the University of Minnesota, Twin Cities. 
 
 For more info
 ------
-Check out my socials and research pages using the links on the left!
+Check out my socials and research pages using the links on the left
