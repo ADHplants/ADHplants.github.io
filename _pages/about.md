@@ -10,8 +10,8 @@ redirect_from:
 
 <p float="left">
   <img src="/images/virgata.jpg" width="250" height="250"/>
-  <img src="/images/rhomboidea.jpg" height="250" /> 
-  <img src="/images/fern.jpg" height="250" />
+  <img src="/images/rhomboidea.jpg" width=170 height="250" /> 
+  <img src="/images/fern.jpg" width=190 height="250" />
 </p>
 
 
