@@ -18,6 +18,8 @@ My academic interests in plants are ecological genomics, mating systems, and tra
 
 Outside of my research, I am interested in science communication and popular science writing. Check out my portfolio if you would like to know more about my non-academic works.
 
+![test](/assets/images/image-alignment-1200x4002.jpg "test")
+
 Background
 ======
 I recieved my B.A. in Biology with High Honors from Colgate University in 2021. At Colgate, I worked in the plant physiological ecology lab of Dr. James Watkins, focusing on fern gametophyte ecophysiology and reproductive biology. Presently, I am a 2nd year PhD student in the Plant and Microbial Biolgoy Program at the University of Minnesota, Twin Cities. 
