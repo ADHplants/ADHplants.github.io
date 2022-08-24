@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+![virgata](/images/virgata.jpg "virgata")
+
 Hi! I'm Aidan, a PhD Student at the University of Minnesota, Twin Cities. I am advised by Dr. David Moeller and broadly interested in the evolutionary ecology of plants, especially _Clarkia_ and ferns. You can find our lab group website [here](https://moellerlab.wordpress.com/). 
-
-
 
 My work and research
 ======
@@ -18,7 +18,6 @@ My academic interests in plants are ecological genomics, mating systems, and tra
 
 Outside of my research, I am interested in science communication and popular science writing. Check out my portfolio if you would like to know more about my non-academic works.
 
-![test](/assets/images/image-alignment-1200x4002.jpg "test")
 
 Background
 ======
