@@ -10,13 +10,13 @@ redirect_from:
 
 <div class="row">
   <div class="column">
-    <img src="/images/virgata.jpg" alt="Clarkia virgata" style="height: 200px; width:200px>
+    <img src="/images/virgata.jpg" alt="Clarkia virgata" style="height: 100px; width:100px>
   </div>
    <div class="column">
-    <img src="/images/rhomboidea.jpg" alt="clarkia rhomboidea" style="height: 200px; width:200px>
+    <img src="/images/rhomboidea.jpg" alt="clarkia rhomboidea" style="height: 100px; width:100px>
   </div>
   <div class="column">
-    <img src="/images/fern.jpg" alt="dryopteris celsa" style="height: 200px; width:200px>
+    <img src="/images/fern.jpg" alt="dryopteris celsa" style="height: 100px; width:100px>
   </div>
 </div>
 
