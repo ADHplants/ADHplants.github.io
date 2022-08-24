@@ -4,13 +4,15 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  image: images/image-alignment-1200x4002.jpg
+  image: /assets/images/image-alignment-1200x4002.jpg
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 Hi! I'm Aidan, a PhD Student at the University of Minnesota, Twin Cities. I am advised by Dr. David Moeller and broadly interested in the evolutionary ecology of plants, especially _Clarkia_ and ferns. You can find our lab group website [here](https://moellerlab.wordpress.com/). 
+
+
 
 My work and research
 ======
